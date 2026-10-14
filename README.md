@@ -1,4 +1,4 @@
-# CNC Alarm Triage Agent
+# CNC Alarm Triage Agent【MVP】
 
 [English](README.md) | [中文](README.zh-TW.md)
 
